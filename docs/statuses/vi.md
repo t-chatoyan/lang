@@ -4,7 +4,36 @@ editLink: false
 
 # vi
 
-##### All missed: 2
+##### All missed: 3
+
+
+### json
+
+##### Missing: 1
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
 
 
 ### php-inline
@@ -23,11 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-required_if_declined
+contains
 
 </td><td width="50%">
 
-This field is required when :other is declined.
+This field is missing a required value.
 
 </td></tr>
 </table>
@@ -52,11 +81,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-required_if_declined
+contains
 
 </td><td width="50%">
 
-The :attribute field is required when :other is declined.
+The :attribute field is missing a required value.
 
 </td></tr>
 </table>

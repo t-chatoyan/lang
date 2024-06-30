@@ -4,12 +4,12 @@ editLink: false
 
 # sd
 
-##### All missed: 8
+##### All missed: 11
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,6 +46,15 @@ ID
 </td><td width="50%">
 
 ID
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">
@@ -83,7 +92,7 @@ SKU
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +104,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_declined
@@ -112,7 +130,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -124,6 +142,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_declined

@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 893
+##### All missed: 896
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 817
+##### Missing: 818
 
 <table width="100%">
 <tr><th width="50%">
@@ -3308,6 +3308,15 @@ Lebanon
 </td><td width="50%">
 
 Lebanon
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">
@@ -7530,7 +7539,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 37
+##### Missing: 38
 
 <table width="100%">
 <tr><th width="50%">
@@ -7576,6 +7585,15 @@ can
 </td><td width="50%">
 
 This field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">
@@ -7883,7 +7901,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 25
+##### Missing: 26
 
 <table width="100%">
 <tr><th width="50%">
@@ -7911,6 +7929,15 @@ can
 </td><td width="50%">
 
 The :attribute field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">

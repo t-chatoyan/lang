@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 50
+##### All missed: 53
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 49
 
 <table width="100%">
 <tr><th width="50%">
@@ -190,6 +190,15 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">
@@ -461,7 +470,7 @@ Venezuela
 
 ### php-inline
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -473,6 +482,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_declined
@@ -490,7 +508,7 @@ This field is required when :other is declined.
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -502,6 +520,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
+
+</td></tr>
 <tr><td width="50%">
 
 required_if_declined
